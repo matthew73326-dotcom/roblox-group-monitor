@@ -1,0 +1,12 @@
+{
+  "name": "roblox-group-monitor",
+  "version": "1.0.0",
+  "description": "24/7 Roblox group staff monitor",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
